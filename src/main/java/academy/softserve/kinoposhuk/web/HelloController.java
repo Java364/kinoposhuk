@@ -1,4 +1,4 @@
-package academy.softserve.kinoposhuk;
+package academy.softserve.kinoposhuk.web;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
